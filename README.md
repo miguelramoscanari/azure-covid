@@ -2,7 +2,7 @@
 Proyecto con la infraestructura de nube de Azure, comprobar la canalización de Data Factory para la entrada de datos, usar Azure Databricks para el ETL de datos y asociar Synapse con Power BI. En este caso, utilizamos datos de COVID.
 
 # Pipeline Overview
-Revise "databrics_covid_etl.ipynb", ahi tiene todo el codigo de ETL en Databricks, interactuando con Azure.
+Revise "databrics_covid_etl.ipynb", ahi tiene todo el codigo de ETL en Databricks (Pyspark), interactuando con Azure.
 
 ![Image text](img/azure-notebook.png)
 ![Image text](img/azure-databricks.png)
